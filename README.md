@@ -102,5 +102,3 @@ Once the development server is running, you can:
 - **Access Regulations:** Review the college's regulations and policies in the designated section. Ensure you are up-to-date with the latest rules and guidelines that affect your academic and campus life.
 
 Enjoy exploring and using the FCI College Portal!
-![5866103441850483924](https://github.com/user-attachments/assets/68396441-10f5-48f4-9dd2-5d51664268f8)
-
