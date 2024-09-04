@@ -50,7 +50,7 @@ Ensure you have the following installed:
 
 3. **Install dependencies:**
 
-    Depending on your package manager, run one of the following commands to install all necessary dependencies:
+    Run one of the following commands to install all necessary dependencies:
 
     Using npm:
 
